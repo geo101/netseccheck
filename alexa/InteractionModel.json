@@ -1,0 +1,32 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "SecuritySummary",
+        "samples": [
+          "tell me the security summary",
+          "what is the security summary",
+          "tell me the summary of security",
+          "what is the summary of security",
+          "what is the low down",
+          "give me a security summary",
+          "give me a summary of security"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "network security checker"
+  }
+}
